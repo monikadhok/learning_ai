@@ -1,3 +1,5 @@
+#Implements an AI Agent that extracts data from wikipedia.
+
 import os
 
 # For fetching data using http calls (i.e. webpage)
